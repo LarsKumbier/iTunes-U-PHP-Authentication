@@ -44,7 +44,7 @@ All methods are docblocked and are pretty self-explanatory.
 
 (5) License and Credits
 =======================
-This library was originally written by Aaron Axelsen (axelsena@uww.edu) and extended by me, Lars Scheithauer (lars.scheithauer@fh-heidelberg.de). As I was unable to get a reply from Aaron on my request for merging my changes, I took the liberty of forking it on github.
+This library was originally written by Aaron Axelsen (axelsena@uww.edu) and extended by me, Lars Kumbier (lars@kumbier.it). As I was unable to get a reply from Aaron on my request for merging my changes, I took the liberty of forking it on github.
 
 The original package does not contain any licensing information, so I consider it to be public domain. However, please give credit, where credit is due.
 
